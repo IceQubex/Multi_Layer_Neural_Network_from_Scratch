@@ -1,2 +1,2 @@
 # Multi-Layer Neural Network (MNIST)
- Creating a Multi-Layer Neural Network from Scratch for MNIST data
+Implemented a multi-layer neural network from scratch, with dense layers and network weight updates done using gradient descent. Tested on the MNIST dataset, and obtained a accuracy of 98%. 
